@@ -1,3 +1,3 @@
 # WebDbG4
 
-Este proyecto incluirá la creación de una base de datos en SQL Server utilizando migraciones utilizando C#
+Este proyecto incluirá la creación de una base de datos en SQL Server utilizando migraciones C#
